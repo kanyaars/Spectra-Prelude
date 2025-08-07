@@ -43,8 +43,8 @@ Tapi semua itu **nggak bakal jalan** kalau lo belum kasih dia kunci.
 ## ⚙️ Cara Bangkitin Bot-nya
 
 ```bash
-git clone https://github.com/Sansekai/Wa-OpenAI.git
-cd Wa-OpenAI
+git clone https://github.com/kanyaars/Spectra-Prelude.git
+cd Spectra-prelude
 npm install
 node index.js
 ```
