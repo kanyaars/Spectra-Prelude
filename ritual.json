@@ -1,7 +1,7 @@
 {
-  "name": "Spectra-WA",
-  "version": "2.1.0",
-  "description": "A fragmented whisper of ChatGPT running through WhatsApp — powered by Baileys Multi Device.",
+  "name": "spectra-prelude",
+  "version": "1.0.0",
+  "description": "whatsapp interface powered by openai — rewritten in the name of chaos, maintained by kanyaars",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -9,18 +9,14 @@
   },
   "keywords": [
     "spectra",
-    "openai-whatsapp",
-    "kanya-bot",
-    "baileys-md",
-    "whatsapp-multi-device",
+    "kanyaars",
+    "openai",
+    "whatsapp-bot",
+    "baileys",
     "chaotic-bot",
-    "digital-ghost"
+    "prelude"
   ],
-  "origin": "https://github.com/DikaArdnt/Hisoka-Morou",
-  "url": "https://github.com/Sansekai/Wa-OpenAI.git",
-  "issues": "https://github.com/Sansekai/Wa-OpenAI/issues",
-  "lore": "https://github.com/Sansekai/Wa-OpenAI#readme",
-  "author": "Yusril / mod by Kanya Ratanak Sros",
+  "author": "kanyaars",
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.0",
@@ -41,5 +37,13 @@
   "directories": {
     "lib": "lib",
     "src": "src"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanyaars/Spectra-Prelude.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kanyaars/Spectra-Prelude/issues"
+  },
+  "homepage": "https://github.com/kanyaars/Spectra-Prelude#readme"
 }
