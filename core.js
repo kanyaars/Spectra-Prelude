@@ -119,7 +119,7 @@ Lihat script asli bot ini kalau kamu cukup waras.`);
         case "sc":
         case "script":
         case "scbot":
-          message.reply("Source code bot ini: https://github.com/Sansekai/Wa-OpenAI\nSilakan dioprek, kalau kuat mental.");
+          message.reply("Source code bot ini: https://github.com/kanyaars/Spectra-Prelude\nSilakan dioprek, kalau kuat mental.");
           break;
 
         default:
@@ -145,3 +145,4 @@ fs.watchFile(file, () => {
   delete require.cache[file];
   require(file);
 });
+
