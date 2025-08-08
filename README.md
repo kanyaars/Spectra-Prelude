@@ -68,7 +68,6 @@ Dimodif? Bebas.
 Dijual ulang? Ya jangan gitu-gitu amat lah.
 
 © 2025, mod by **Kanya Ratanak Sros**
-Inspired by original repo by M. Yusril (Sansekai)
 
 ---
 
